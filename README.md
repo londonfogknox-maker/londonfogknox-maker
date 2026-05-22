@@ -19,4 +19,4 @@ Architecting prototypes from the ground up— frontend, backend, and API to make
 ### Background
 
 * Bachelors in Electrical Engineering with focus in data fusion and pattern recognition. 
-* A Maker
+* Maker's communities in Knoxville
