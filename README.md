@@ -6,13 +6,8 @@ Architecting prototypes from the ground up— frontend, backend, and API to make
 
 ### On the Workbench
 *Currently tinkering with:* **Periwinkle-Punk Website** — A local author's new website exploring LlamaIndex for a moodboard feature that readers can use to discover new books from the author's personal library.
-<!--
-> *The goal is to move this from a local script to a hosted prototype by [Day of the week].*
--->
-
 
 ### Development Workflows
-
 
 | **Modern Web & AI** | **Lightweight & Custom AI** |
 | :--- | :--- |
@@ -20,3 +15,8 @@ Architecting prototypes from the ground up— frontend, backend, and API to make
 | • **Backend:** FastAPI (Learning) | • **Backend:** Python / Flask |
 | • **AI:** LlamaIndex (TS) | • **AI:** Handwritten RAG (Python) |
 | • **Infrastructure:** Vercel | • **Visualization:** Three.js, Chart.js |
+
+### Background
+
+* Bachelors in Electrical Engineering with focus in data fusion and pattern recognition. 
+* A Maker
